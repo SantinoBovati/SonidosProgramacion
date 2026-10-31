@@ -151,6 +151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CuentaRegresiva
   textoCuenta: {fileID: 1042601506}
+  imagenYa: {fileID: 765200590}
   audioSourceSFX: {fileID: 484134598}
   clipBeep: {fileID: 8300000, guid: 018380f9383c8c54ba3f1fccd529fd99, type: 3}
   clipYa: {fileID: 8300000, guid: fc95e5f78b02252439594db6de9a3e0b, type: 3}
@@ -692,14 +693,14 @@ RectTransform:
   m_GameObject: {fileID: 765200590}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4.6098785, y: 4.6098785, z: 4.6098785}
+  m_LocalScale: {x: 7.4317985, y: 7.4317985, z: 7.4317985}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1713503711}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4, y: 199}
+  m_AnchoredPosition: {x: 0, y: 61}
   m_SizeDelta: {x: 181.3945, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &765200592
@@ -874,7 +875,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -249}
+  m_AnchoredPosition: {x: 0, y: -375}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1713503710
@@ -1015,7 +1016,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -139}
+  m_AnchoredPosition: {x: 0, y: -265}
   m_SizeDelta: {x: 295.4804, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1951922366
